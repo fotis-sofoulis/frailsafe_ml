@@ -9,7 +9,7 @@
 This work is a semester project on data analysis and visualisation, with data provided from the https://frailsafe-project.eu/ by our professor.
 The project tackles most of the problems of the data analysis process, such as handling erroneous and missing data, outlier detection, dealing with high dimensionality, classification and clustering algorithms, as well as visualisation and exploratory analysis.
 
-P.S. Due to the sensitivity of the data, the datasets or their aggregations will not be uploaded. 
+_P.S. Due to the sensitivity of the data, the datasets or their aggregations will not be uploaded._
 
 ## Getting Started
 This project was split into 3 parts:
